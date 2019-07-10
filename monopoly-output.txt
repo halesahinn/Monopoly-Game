@@ -1,0 +1,1169 @@
+	Monopoly
+
+How many people are playing?
+Players (2 - 8): 
+There will be 6 players.
+How much money for each at start?
+Each player will have 250 for start.
+Game start!
+========
+[Iteration 1] [0] [$250] Player 1 rolls die and its first face value is 5
+[Iteration 1] [0] [$250] Player 1 rolls die and its second face value is 3
+[Iteration 1] [0] [$250] Player 1 total face value is 8
+[Iteration 1] [8] [$250] Player 1 goes to Ordinary Square
+[Iteration 1] [8] [$250] Player 1 is at non specified square, no action here
+[Iteration 1] [0] [$250] Player 2 rolls die and its first face value is 5
+[Iteration 1] [0] [$250] Player 2 rolls die and its second face value is 4
+[Iteration 1] [0] [$250] Player 2 total face value is 9
+[Iteration 1] [9] [$250] Player 2 goes to Square9
+[Iteration 1] [9] [$250] Player 2, Do you want to buy Square9?
+[Iteration 1] [9] [$250] Player 2 don't want or cannot buy Square9
+[Iteration 1] [0] [$250] Player 3 rolls die and its first face value is 5
+[Iteration 1] [0] [$250] Player 3 rolls die and its second face value is 1
+[Iteration 1] [0] [$250] Player 3 total face value is 6
+[Iteration 1] [6] [$250] Player 3 goes to Railroad1 Square
+[Iteration 1] [6] [$250] Player 3, Do you want to buy Railroad1 Square?
+[Iteration 1] [6] [$250] Player 3 buys Railroad1 Square for 200
+[Iteration 1] [0] [$250] Player 4 rolls die and its first face value is 3
+[Iteration 1] [0] [$250] Player 4 rolls die and its second face value is 1
+[Iteration 1] [0] [$250] Player 4 total face value is 4
+[Iteration 1] [4] [$250] Player 4 goes to Square4
+[Iteration 1] [4] [$250] Player 4, Do you want to buy Square4?
+[Iteration 1] [4] [$250] Player 4 don't want or cannot buy Square4
+[Iteration 1] [0] [$250] Player 5 rolls die and its first face value is 3
+[Iteration 1] [0] [$250] Player 5 rolls die and its second face value is 5
+[Iteration 1] [0] [$250] Player 5 total face value is 8
+[Iteration 1] [8] [$250] Player 5 goes to Ordinary Square
+[Iteration 1] [8] [$250] Player 5 is at non specified square, no action here
+[Iteration 1] [0] [$250] Player 6 rolls die and its first face value is 1
+[Iteration 1] [0] [$250] Player 6 rolls die and its second face value is 5
+[Iteration 1] [0] [$250] Player 6 total face value is 6
+[Iteration 1] [6] [$250] Player 6 goes to Railroad1 Square
+[Iteration 1] [6] [$250] Player 6 rolls die and its first face value is 2
+[Iteration 1] [6] [$250] Player 6 rolls die and its second face value is 5
+[Iteration 1] [6] [$250] Player 6 total face value is 7
+[Iteration 1] [6] [$250] Player 6 lost 5 times rolled dice + 25 60 money to Player 3
+[Iteration 2] [8] [$250] Player 1 rolls die and its first face value is 2
+[Iteration 2] [8] [$250] Player 1 rolls die and its second face value is 4
+[Iteration 2] [8] [$250] Player 1 total face value is 6
+[Iteration 2] [14] [$250] Player 1 goes to Square14
+[Iteration 2] [14] [$250] Player 1, Do you want to buy Square14?
+[Iteration 2] [14] [$250] Player 1 don't want or cannot buy Square14
+[Iteration 2] [9] [$250] Player 2 rolls die and its first face value is 5
+[Iteration 2] [9] [$250] Player 2 rolls die and its second face value is 1
+[Iteration 2] [9] [$250] Player 2 total face value is 6
+[Iteration 2] [15] [$250] Player 2 goes to Square15
+[Iteration 2] [15] [$250] Player 2, Do you want to buy Square15?
+[Iteration 2] [15] [$250] Player 2 don't want or cannot buy Square15
+[Iteration 2] [6] [$110] Player 3 rolls die and its first face value is 1
+[Iteration 2] [6] [$110] Player 3 rolls die and its second face value is 3
+[Iteration 2] [6] [$110] Player 3 total face value is 4
+[Iteration 2] [10] [$110] Player 3 goes to Square10
+[Iteration 2] [10] [$110] Player 3, Do you want to buy Square10?
+[Iteration 2] [10] [$110] Player 3 don't want or cannot buy Square10
+[Iteration 2] [4] [$250] Player 4 rolls die and its first face value is 5
+[Iteration 2] [4] [$250] Player 4 rolls die and its second face value is 1
+[Iteration 2] [4] [$250] Player 4 total face value is 6
+[Iteration 2] [10] [$250] Player 4 goes to Square10
+[Iteration 2] [10] [$250] Player 4, Do you want to buy Square10?
+[Iteration 2] [10] [$250] Player 4 don't want or cannot buy Square10
+[Iteration 2] [8] [$250] Player 5 rolls die and its first face value is 3
+[Iteration 2] [8] [$250] Player 5 rolls die and its second face value is 2
+[Iteration 2] [8] [$250] Player 5 total face value is 5
+[Iteration 2] [13] [$250] Player 5 goes to Electric Utility Square
+[Iteration 2] [13] [$250] Player 5, Do you want to buy Electric Utility Square?
+[Iteration 2] [13] [$250] Player 5 dont want or cannot buy Electric Utility Square
+[Iteration 2] [6] [$190] Player 6 rolls die and its first face value is 1
+[Iteration 2] [6] [$190] Player 6 rolls die and its second face value is 5
+[Iteration 2] [6] [$190] Player 6 total face value is 6
+[Iteration 2] [12] [$190] Player 6 goes to Square12
+[Iteration 2] [12] [$190] Player 6, Do you want to buy Square12?
+[Iteration 2] [12] [$190] Player 6 don't want or cannot buy Square12
+[Iteration 3] [14] [$250] Player 1 rolls die and its first face value is 4
+[Iteration 3] [14] [$250] Player 1 rolls die and its second face value is 5
+[Iteration 3] [14] [$250] Player 1 total face value is 9
+[Iteration 3] [23] [$250] Player 1 goes to Ordinary Square
+[Iteration 3] [23] [$250] Player 1 is at non specified square, no action here
+[Iteration 3] [15] [$250] Player 2 rolls die and its first face value is 3
+[Iteration 3] [15] [$250] Player 2 rolls die and its second face value is 3
+[Iteration 3] [15] [$250] Player 2 total face value is 6
+[Iteration 3] [21] [$250] Player 2 goes to Free Parking
+[Iteration 3] [21] [$250] Player 2 is at free parking square, no action here
+[Iteration 3] [10] [$110] Player 3 rolls die and its first face value is 2
+[Iteration 3] [10] [$110] Player 3 rolls die and its second face value is 5
+[Iteration 3] [10] [$110] Player 3 total face value is 7
+[Iteration 3] [17] [$110] Player 3 goes to Square17
+[Iteration 3] [17] [$110] Player 3, Do you want to buy Square17?
+[Iteration 3] [17] [$110] Player 3 don't want or cannot buy Square17
+[Iteration 3] [10] [$250] Player 4 rolls die and its first face value is 2
+[Iteration 3] [10] [$250] Player 4 rolls die and its second face value is 3
+[Iteration 3] [10] [$250] Player 4 total face value is 5
+[Iteration 3] [15] [$250] Player 4 goes to Square15
+[Iteration 3] [15] [$250] Player 4, Do you want to buy Square15?
+[Iteration 3] [15] [$250] Player 4 don't want or cannot buy Square15
+[Iteration 3] [13] [$250] Player 5 rolls die and its first face value is 2
+[Iteration 3] [13] [$250] Player 5 rolls die and its second face value is 1
+[Iteration 3] [13] [$250] Player 5 total face value is 3
+[Iteration 3] [16] [$250] Player 5 goes to Railroad2 Square
+[Iteration 3] [16] [$250] Player 5, Do you want to buy Railroad2 Square?
+[Iteration 3] [16] [$250] Player 5 dont want or cannot buy Railroad2 Square
+[Iteration 3] [12] [$190] Player 6 rolls die and its first face value is 4
+[Iteration 3] [12] [$190] Player 6 rolls die and its second face value is 1
+[Iteration 3] [12] [$190] Player 6 total face value is 5
+[Iteration 3] [17] [$190] Player 6 goes to Square17
+[Iteration 3] [17] [$190] Player 6, Do you want to buy Square17?
+[Iteration 3] [17] [$190] Player 6 buys Square17 for 180
+[Iteration 3] [17] [$10] Player 6 has been bankruptcy!
+[Iteration 4] [23] [$250] Player 1 rolls die and its first face value is 3
+[Iteration 4] [23] [$250] Player 1 rolls die and its second face value is 1
+[Iteration 4] [23] [$250] Player 1 total face value is 4
+[Iteration 4] [27] [$250] Player 1 goes to Square27
+[Iteration 4] [27] [$250] Player 1, Do you want to buy Square27?
+[Iteration 4] [27] [$250] Player 1 don't want or cannot buy Square27
+[Iteration 4] [21] [$250] Player 2 rolls die and its first face value is 4
+[Iteration 4] [21] [$250] Player 2 rolls die and its second face value is 2
+[Iteration 4] [21] [$250] Player 2 total face value is 6
+[Iteration 4] [27] [$250] Player 2 goes to Square27
+[Iteration 4] [27] [$250] Player 2, Do you want to buy Square27?
+[Iteration 4] [27] [$250] Player 2 don't want or cannot buy Square27
+[Iteration 4] [17] [$110] Player 3 rolls die and its first face value is 2
+[Iteration 4] [17] [$110] Player 3 rolls die and its second face value is 3
+[Iteration 4] [17] [$110] Player 3 total face value is 5
+[Iteration 4] [22] [$110] Player 3 goes to Square22
+[Iteration 4] [22] [$110] Player 3, Do you want to buy Square22?
+[Iteration 4] [22] [$110] Player 3 don't want or cannot buy Square22
+[Iteration 4] [15] [$250] Player 4 rolls die and its first face value is 2
+[Iteration 4] [15] [$250] Player 4 rolls die and its second face value is 1
+[Iteration 4] [15] [$250] Player 4 total face value is 3
+[Iteration 4] [18] [$250] Player 4 goes to Ordinary Square
+[Iteration 4] [18] [$250] Player 4 is at non specified square, no action here
+[Iteration 4] [16] [$250] Player 5 rolls die and its first face value is 2
+[Iteration 4] [16] [$250] Player 5 rolls die and its second face value is 1
+[Iteration 4] [16] [$250] Player 5 total face value is 3
+[Iteration 4] [19] [$250] Player 5 goes to Square19
+[Iteration 4] [19] [$250] Player 5, Do you want to buy Square19?
+[Iteration 4] [19] [$250] Player 5 buys Square19 for 180
+[Iteration 3] [17] [$10] Player 6 removed from the game because of bankruptcy.
+[Iteration 5] [27] [$250] Player 1 rolls die and its first face value is 1
+[Iteration 5] [27] [$250] Player 1 rolls die and its second face value is 2
+[Iteration 5] [27] [$250] Player 1 total face value is 3
+[Iteration 5] [30] [$250] Player 1 goes to Square30
+[Iteration 5] [30] [$250] Player 1, Do you want to buy Square30?
+[Iteration 5] [30] [$250] Player 1 don't want or cannot buy Square30
+[Iteration 5] [27] [$250] Player 2 rolls die and its first face value is 2
+[Iteration 5] [27] [$250] Player 2 rolls die and its second face value is 4
+[Iteration 5] [27] [$250] Player 2 total face value is 6
+[Iteration 5] [33] [$250] Player 2 goes to Square33
+[Iteration 5] [33] [$250] Player 2, Do you want to buy Square33?
+[Iteration 5] [33] [$250] Player 2 don't want or cannot buy Square33
+[Iteration 5] [22] [$110] Player 3 rolls die and its first face value is 2
+[Iteration 5] [22] [$110] Player 3 rolls die and its second face value is 5
+[Iteration 5] [22] [$110] Player 3 total face value is 7
+[Iteration 5] [29] [$110] Player 3 goes to Water Utility Square
+[Iteration 5] [29] [$110] Player 3, Do you want to buy Water Utility Square?
+[Iteration 5] [29] [$110] Player 3 dont want or cannot buy Water Utility Square
+[Iteration 5] [18] [$250] Player 4 rolls die and its first face value is 5
+[Iteration 5] [18] [$250] Player 4 rolls die and its second face value is 2
+[Iteration 5] [18] [$250] Player 4 total face value is 7
+[Iteration 5] [25] [$250] Player 4 goes to Square25
+[Iteration 5] [25] [$250] Player 4, Do you want to buy Square25?
+[Iteration 5] [25] [$250] Player 4 don't want or cannot buy Square25
+[Iteration 5] [19] [$70] Player 5 rolls die and its first face value is 3
+[Iteration 5] [19] [$70] Player 5 rolls die and its second face value is 3
+[Iteration 5] [19] [$70] Player 5 total face value is 6
+[Iteration 5] [25] [$70] Player 5 goes to Square25
+[Iteration 5] [25] [$70] Player 5, Do you want to buy Square25?
+[Iteration 5] [25] [$70] Player 5 don't want or cannot buy Square25
+[Iteration 6] [30] [$250] Player 1 rolls die and its first face value is 4
+[Iteration 6] [30] [$250] Player 1 rolls die and its second face value is 2
+[Iteration 6] [30] [$250] Player 1 total face value is 6
+[Iteration 6] [36] [$250] Player 1 goes to Railroad4 Square
+[Iteration 6] [36] [$250] Player 1, Do you want to buy Railroad4 Square?
+[Iteration 6] [36] [$250] Player 1 buys Railroad4 Square for 200
+[Iteration 6] [33] [$250] Player 2 rolls die and its first face value is 4
+[Iteration 6] [33] [$250] Player 2 rolls die and its second face value is 4
+[Iteration 6] [33] [$250] Player 2 total face value is 8
+[Iteration 6] [1] [$250] Player 2 goes to GO
+[Iteration 6] [1] [$250] Player 2 is at Go... Giving 200 money
+[Iteration 6] [29] [$110] Player 3 rolls die and its first face value is 3
+[Iteration 6] [29] [$110] Player 3 rolls die and its second face value is 1
+[Iteration 6] [29] [$110] Player 3 total face value is 4
+[Iteration 6] [33] [$110] Player 3 goes to Square33
+[Iteration 6] [33] [$110] Player 3, Do you want to buy Square33?
+[Iteration 6] [33] [$110] Player 3 don't want or cannot buy Square33
+[Iteration 6] [25] [$250] Player 4 rolls die and its first face value is 2
+[Iteration 6] [25] [$250] Player 4 rolls die and its second face value is 4
+[Iteration 6] [25] [$250] Player 4 total face value is 6
+[Iteration 6] [31] [$250] Player 4 goes to Go to Jail
+[Iteration 6] [31] [$250] Player 4 has go to Jail
+[Iteration 6] [11] [$250] Player 4 goes to Jail
+[Iteration 6] [25] [$70] Player 5 rolls die and its first face value is 1
+[Iteration 6] [25] [$70] Player 5 rolls die and its second face value is 4
+[Iteration 6] [25] [$70] Player 5 total face value is 5
+[Iteration 6] [30] [$70] Player 5 goes to Square30
+[Iteration 6] [30] [$70] Player 5, Do you want to buy Square30?
+[Iteration 6] [30] [$70] Player 5 don't want or cannot buy Square30
+[Iteration 7] [36] [$50] Player 1 rolls die and its first face value is 3
+[Iteration 7] [36] [$50] Player 1 rolls die and its second face value is 5
+[Iteration 7] [36] [$50] Player 1 total face value is 8
+[Iteration 7] [4] [$50] Player 1 goes to Square4
+[Iteration 7] [4] [$50] Player 1, Do you want to buy Square4?
+[Iteration 7] [4] [$50] Player 1 don't want or cannot buy Square4
+[Iteration 7] [1] [$450] Player 2 rolls die and its first face value is 4
+[Iteration 7] [1] [$450] Player 2 rolls die and its second face value is 3
+[Iteration 7] [1] [$450] Player 2 total face value is 7
+[Iteration 7] [8] [$450] Player 2 goes to Ordinary Square
+[Iteration 7] [8] [$450] Player 2 is at non specified square, no action here
+[Iteration 7] [33] [$110] Player 3 rolls die and its first face value is 3
+[Iteration 7] [33] [$110] Player 3 rolls die and its second face value is 2
+[Iteration 7] [33] [$110] Player 3 total face value is 5
+[Iteration 7] [38] [$110] Player 3 goes to Square38
+[Iteration 7] [38] [$110] Player 3, Do you want to buy Square38?
+[Iteration 7] [38] [$110] Player 3 don't want or cannot buy Square38
+[Iteration 8] [11] [$250] Player 4 rolls die and its first face value is 5
+[Iteration 8] [11] [$250] Player 4 rolls die and its second face value is 5
+[Iteration 8] [11] [$250] Player 4 total face value is 10
+[Iteration 8] [21] [$250] Player 4 goes to Free Parking
+[Iteration 8] [21] [$250] Player 4 is at free parking square, no action here
+[Iteration 7] [30] [$70] Player 5 rolls die and its first face value is 1
+[Iteration 7] [30] [$70] Player 5 rolls die and its second face value is 1
+[Iteration 7] [30] [$70] Player 5 total face value is 2
+[Iteration 7] [32] [$70] Player 5 goes to Square32
+[Iteration 7] [32] [$70] Player 5, Do you want to buy Square32?
+[Iteration 7] [32] [$70] Player 5 don't want or cannot buy Square32
+[Iteration 8] [4] [$50] Player 1 rolls die and its first face value is 5
+[Iteration 8] [4] [$50] Player 1 rolls die and its second face value is 5
+[Iteration 8] [4] [$50] Player 1 total face value is 10
+[Iteration 8] [14] [$50] Player 1 goes to Square14
+[Iteration 8] [14] [$50] Player 1, Do you want to buy Square14?
+[Iteration 8] [14] [$50] Player 1 don't want or cannot buy Square14
+[Iteration 8] [8] [$450] Player 2 rolls die and its first face value is 3
+[Iteration 8] [8] [$450] Player 2 rolls die and its second face value is 5
+[Iteration 8] [8] [$450] Player 2 total face value is 8
+[Iteration 8] [16] [$450] Player 2 goes to Railroad2 Square
+[Iteration 8] [16] [$450] Player 2, Do you want to buy Railroad2 Square?
+[Iteration 8] [16] [$450] Player 2 dont want or cannot buy Railroad2 Square
+[Iteration 8] [38] [$110] Player 3 rolls die and its first face value is 1
+[Iteration 8] [38] [$110] Player 3 rolls die and its second face value is 4
+[Iteration 8] [38] [$110] Player 3 total face value is 5
+[Iteration 8] [3] [$110] Player 3 goes to Ordinary Square
+[Iteration 8] [3] [$110] Player 3 is at non specified square, no action here
+[Iteration 9] [21] [$250] Player 4 rolls die and its first face value is 2
+[Iteration 9] [21] [$250] Player 4 rolls die and its second face value is 4
+[Iteration 9] [21] [$250] Player 4 total face value is 6
+[Iteration 9] [27] [$250] Player 4 goes to Square27
+[Iteration 9] [27] [$250] Player 4, Do you want to buy Square27?
+[Iteration 9] [27] [$250] Player 4 don't want or cannot buy Square27
+[Iteration 8] [32] [$70] Player 5 rolls die and its first face value is 4
+[Iteration 8] [32] [$70] Player 5 rolls die and its second face value is 4
+[Iteration 8] [32] [$70] Player 5 total face value is 8
+[Iteration 8] [40] [$70] Player 5 goes to Square40
+[Iteration 8] [40] [$70] Player 5, Do you want to buy Square40?
+[Iteration 8] [40] [$70] Player 5 don't want or cannot buy Square40
+[Iteration 9] [14] [$50] Player 1 rolls die and its first face value is 3
+[Iteration 9] [14] [$50] Player 1 rolls die and its second face value is 5
+[Iteration 9] [14] [$50] Player 1 total face value is 8
+[Iteration 9] [22] [$50] Player 1 goes to Square22
+[Iteration 9] [22] [$50] Player 1, Do you want to buy Square22?
+[Iteration 9] [22] [$50] Player 1 don't want or cannot buy Square22
+[Iteration 9] [16] [$450] Player 2 rolls die and its first face value is 3
+[Iteration 9] [16] [$450] Player 2 rolls die and its second face value is 5
+[Iteration 9] [16] [$450] Player 2 total face value is 8
+[Iteration 9] [24] [$450] Player 2 goes to Square24
+[Iteration 9] [24] [$450] Player 2, Do you want to buy Square24?
+[Iteration 9] [24] [$450] Player 2 don't want or cannot buy Square24
+[Iteration 9] [3] [$110] Player 3 rolls die and its first face value is 2
+[Iteration 9] [3] [$110] Player 3 rolls die and its second face value is 2
+[Iteration 9] [3] [$110] Player 3 total face value is 4
+[Iteration 9] [7] [$110] Player 3 goes to Square7
+[Iteration 9] [7] [$110] Player 3, Do you want to buy Square7?
+[Iteration 9] [7] [$110] Player 3 don't want or cannot buy Square7
+[Iteration 10] [27] [$250] Player 4 rolls die and its first face value is 5
+[Iteration 10] [27] [$250] Player 4 rolls die and its second face value is 2
+[Iteration 10] [27] [$250] Player 4 total face value is 7
+[Iteration 10] [34] [$250] Player 4 goes to Ordinary Square
+[Iteration 10] [34] [$250] Player 4 is at non specified square, no action here
+[Iteration 9] [40] [$70] Player 5 rolls die and its first face value is 2
+[Iteration 9] [40] [$70] Player 5 rolls die and its second face value is 3
+[Iteration 9] [40] [$70] Player 5 total face value is 5
+[Iteration 9] [5] [$70] Player 5 goes to Income Tax Square
+[Iteration 9] [5] [$70] Player 5 is at Income Tax Square... loosing %10 of his/her money
+[Iteration 10] [22] [$50] Player 1 rolls die and its first face value is 1
+[Iteration 10] [22] [$50] Player 1 rolls die and its second face value is 5
+[Iteration 10] [22] [$50] Player 1 total face value is 6
+[Iteration 10] [28] [$50] Player 1 goes to Square28
+[Iteration 10] [28] [$50] Player 1, Do you want to buy Square28?
+[Iteration 10] [28] [$50] Player 1 don't want or cannot buy Square28
+[Iteration 10] [24] [$450] Player 2 rolls die and its first face value is 2
+[Iteration 10] [24] [$450] Player 2 rolls die and its second face value is 1
+[Iteration 10] [24] [$450] Player 2 total face value is 3
+[Iteration 10] [27] [$450] Player 2 goes to Square27
+[Iteration 10] [27] [$450] Player 2, Do you want to buy Square27?
+[Iteration 10] [27] [$450] Player 2 don't want or cannot buy Square27
+[Iteration 10] [7] [$110] Player 3 rolls die and its first face value is 5
+[Iteration 10] [7] [$110] Player 3 rolls die and its second face value is 4
+[Iteration 10] [7] [$110] Player 3 total face value is 9
+[Iteration 10] [16] [$110] Player 3 goes to Railroad2 Square
+[Iteration 10] [16] [$110] Player 3, Do you want to buy Railroad2 Square?
+[Iteration 10] [16] [$110] Player 3 dont want or cannot buy Railroad2 Square
+[Iteration 11] [34] [$250] Player 4 rolls die and its first face value is 5
+[Iteration 11] [34] [$250] Player 4 rolls die and its second face value is 1
+[Iteration 11] [34] [$250] Player 4 total face value is 6
+[Iteration 11] [40] [$250] Player 4 goes to Square40
+[Iteration 11] [40] [$250] Player 4, Do you want to buy Square40?
+[Iteration 11] [40] [$250] Player 4 don't want or cannot buy Square40
+[Iteration 10] [5] [$63] Player 5 rolls die and its first face value is 4
+[Iteration 10] [5] [$63] Player 5 rolls die and its second face value is 5
+[Iteration 10] [5] [$63] Player 5 total face value is 9
+[Iteration 10] [14] [$63] Player 5 goes to Square14
+[Iteration 10] [14] [$63] Player 5, Do you want to buy Square14?
+[Iteration 10] [14] [$63] Player 5 don't want or cannot buy Square14
+[Iteration 11] [28] [$50] Player 1 rolls die and its first face value is 5
+[Iteration 11] [28] [$50] Player 1 rolls die and its second face value is 3
+[Iteration 11] [28] [$50] Player 1 total face value is 8
+[Iteration 11] [36] [$50] Player 1 goes to Railroad4 Square
+[Iteration 11] [27] [$450] Player 2 rolls die and its first face value is 3
+[Iteration 11] [27] [$450] Player 2 rolls die and its second face value is 4
+[Iteration 11] [27] [$450] Player 2 total face value is 7
+[Iteration 11] [34] [$450] Player 2 goes to Ordinary Square
+[Iteration 11] [34] [$450] Player 2 is at non specified square, no action here
+[Iteration 11] [16] [$110] Player 3 rolls die and its first face value is 2
+[Iteration 11] [16] [$110] Player 3 rolls die and its second face value is 1
+[Iteration 11] [16] [$110] Player 3 total face value is 3
+[Iteration 11] [19] [$110] Player 3 goes to Square19
+[Iteration 11] [19] [$110] Player 3 lost 14 money to Player 5
+[Iteration 12] [40] [$250] Player 4 rolls die and its first face value is 1
+[Iteration 12] [40] [$250] Player 4 rolls die and its second face value is 4
+[Iteration 12] [40] [$250] Player 4 total face value is 5
+[Iteration 12] [5] [$250] Player 4 goes to Income Tax Square
+[Iteration 12] [5] [$250] Player 4 is at Income Tax Square... loosing %10 of his/her money
+[Iteration 11] [14] [$77] Player 5 rolls die and its first face value is 5
+[Iteration 11] [14] [$77] Player 5 rolls die and its second face value is 2
+[Iteration 11] [14] [$77] Player 5 total face value is 7
+[Iteration 11] [21] [$77] Player 5 goes to Free Parking
+[Iteration 11] [21] [$77] Player 5 is at free parking square, no action here
+[Iteration 12] [36] [$50] Player 1 rolls die and its first face value is 4
+[Iteration 12] [36] [$50] Player 1 rolls die and its second face value is 1
+[Iteration 12] [36] [$50] Player 1 total face value is 5
+[Iteration 12] [1] [$50] Player 1 goes to GO
+[Iteration 12] [1] [$50] Player 1 is at Go... Giving 200 money
+[Iteration 12] [34] [$450] Player 2 rolls die and its first face value is 1
+[Iteration 12] [34] [$450] Player 2 rolls die and its second face value is 5
+[Iteration 12] [34] [$450] Player 2 total face value is 6
+[Iteration 12] [40] [$450] Player 2 goes to Square40
+[Iteration 12] [40] [$450] Player 2, Do you want to buy Square40?
+[Iteration 12] [40] [$450] Player 2 don't want or cannot buy Square40
+[Iteration 12] [19] [$96] Player 3 rolls die and its first face value is 2
+[Iteration 12] [19] [$96] Player 3 rolls die and its second face value is 2
+[Iteration 12] [19] [$96] Player 3 total face value is 4
+[Iteration 12] [23] [$96] Player 3 goes to Ordinary Square
+[Iteration 12] [23] [$96] Player 3 is at non specified square, no action here
+[Iteration 13] [5] [$225] Player 4 rolls die and its first face value is 2
+[Iteration 13] [5] [$225] Player 4 rolls die and its second face value is 5
+[Iteration 13] [5] [$225] Player 4 total face value is 7
+[Iteration 13] [12] [$225] Player 4 goes to Square12
+[Iteration 13] [12] [$225] Player 4, Do you want to buy Square12?
+[Iteration 13] [12] [$225] Player 4 don't want or cannot buy Square12
+[Iteration 12] [21] [$77] Player 5 rolls die and its first face value is 3
+[Iteration 12] [21] [$77] Player 5 rolls die and its second face value is 4
+[Iteration 12] [21] [$77] Player 5 total face value is 7
+[Iteration 12] [28] [$77] Player 5 goes to Square28
+[Iteration 12] [28] [$77] Player 5, Do you want to buy Square28?
+[Iteration 12] [28] [$77] Player 5 don't want or cannot buy Square28
+[Iteration 13] [1] [$250] Player 1 rolls die and its first face value is 2
+[Iteration 13] [1] [$250] Player 1 rolls die and its second face value is 5
+[Iteration 13] [1] [$250] Player 1 total face value is 7
+[Iteration 13] [8] [$250] Player 1 goes to Ordinary Square
+[Iteration 13] [8] [$250] Player 1 is at non specified square, no action here
+[Iteration 13] [40] [$450] Player 2 rolls die and its first face value is 4
+[Iteration 13] [40] [$450] Player 2 rolls die and its second face value is 2
+[Iteration 13] [40] [$450] Player 2 total face value is 6
+[Iteration 13] [6] [$450] Player 2 goes to Railroad1 Square
+[Iteration 13] [6] [$450] Player 2 rolls die and its first face value is 2
+[Iteration 13] [6] [$450] Player 2 rolls die and its second face value is 4
+[Iteration 13] [6] [$450] Player 2 total face value is 6
+[Iteration 13] [6] [$450] Player 2 lost 5 times rolled dice + 25 55 money to Player 3
+[Iteration 13] [23] [$151] Player 3 rolls die and its first face value is 3
+[Iteration 13] [23] [$151] Player 3 rolls die and its second face value is 2
+[Iteration 13] [23] [$151] Player 3 total face value is 5
+[Iteration 13] [28] [$151] Player 3 goes to Square28
+[Iteration 13] [28] [$151] Player 3, Do you want to buy Square28?
+[Iteration 13] [28] [$151] Player 3 don't want or cannot buy Square28
+[Iteration 14] [12] [$225] Player 4 rolls die and its first face value is 1
+[Iteration 14] [12] [$225] Player 4 rolls die and its second face value is 3
+[Iteration 14] [12] [$225] Player 4 total face value is 4
+[Iteration 14] [16] [$225] Player 4 goes to Railroad2 Square
+[Iteration 14] [16] [$225] Player 4, Do you want to buy Railroad2 Square?
+[Iteration 14] [16] [$225] Player 4 dont want or cannot buy Railroad2 Square
+[Iteration 13] [28] [$77] Player 5 rolls die and its first face value is 2
+[Iteration 13] [28] [$77] Player 5 rolls die and its second face value is 2
+[Iteration 13] [28] [$77] Player 5 total face value is 4
+[Iteration 13] [32] [$77] Player 5 goes to Square32
+[Iteration 13] [32] [$77] Player 5, Do you want to buy Square32?
+[Iteration 13] [32] [$77] Player 5 don't want or cannot buy Square32
+[Iteration 14] [8] [$250] Player 1 rolls die and its first face value is 1
+[Iteration 14] [8] [$250] Player 1 rolls die and its second face value is 5
+[Iteration 14] [8] [$250] Player 1 total face value is 6
+[Iteration 14] [14] [$250] Player 1 goes to Square14
+[Iteration 14] [14] [$250] Player 1, Do you want to buy Square14?
+[Iteration 14] [14] [$250] Player 1 buys Square14 for 140
+[Iteration 14] [6] [$395] Player 2 rolls die and its first face value is 4
+[Iteration 14] [6] [$395] Player 2 rolls die and its second face value is 3
+[Iteration 14] [6] [$395] Player 2 total face value is 7
+[Iteration 14] [13] [$395] Player 2 goes to Electric Utility Square
+[Iteration 14] [13] [$395] Player 2, Do you want to buy Electric Utility Square?
+[Iteration 14] [13] [$395] Player 2 dont want or cannot buy Electric Utility Square
+[Iteration 14] [28] [$151] Player 3 rolls die and its first face value is 5
+[Iteration 14] [28] [$151] Player 3 rolls die and its second face value is 4
+[Iteration 14] [28] [$151] Player 3 total face value is 9
+[Iteration 14] [37] [$151] Player 3 goes to Ordinary Square
+[Iteration 14] [37] [$151] Player 3 is at non specified square, no action here
+[Iteration 15] [16] [$225] Player 4 rolls die and its first face value is 5
+[Iteration 15] [16] [$225] Player 4 rolls die and its second face value is 1
+[Iteration 15] [16] [$225] Player 4 total face value is 6
+[Iteration 15] [22] [$225] Player 4 goes to Square22
+[Iteration 15] [22] [$225] Player 4, Do you want to buy Square22?
+[Iteration 15] [22] [$225] Player 4 don't want or cannot buy Square22
+[Iteration 14] [32] [$77] Player 5 rolls die and its first face value is 3
+[Iteration 14] [32] [$77] Player 5 rolls die and its second face value is 5
+[Iteration 14] [32] [$77] Player 5 total face value is 8
+[Iteration 14] [40] [$77] Player 5 goes to Square40
+[Iteration 14] [40] [$77] Player 5, Do you want to buy Square40?
+[Iteration 14] [40] [$77] Player 5 don't want or cannot buy Square40
+[Iteration 15] [14] [$110] Player 1 rolls die and its first face value is 3
+[Iteration 15] [14] [$110] Player 1 rolls die and its second face value is 5
+[Iteration 15] [14] [$110] Player 1 total face value is 8
+[Iteration 15] [22] [$110] Player 1 goes to Square22
+[Iteration 15] [22] [$110] Player 1, Do you want to buy Square22?
+[Iteration 15] [22] [$110] Player 1 don't want or cannot buy Square22
+[Iteration 15] [13] [$395] Player 2 rolls die and its first face value is 2
+[Iteration 15] [13] [$395] Player 2 rolls die and its second face value is 3
+[Iteration 15] [13] [$395] Player 2 total face value is 5
+[Iteration 15] [18] [$395] Player 2 goes to Ordinary Square
+[Iteration 15] [18] [$395] Player 2 is at non specified square, no action here
+[Iteration 15] [37] [$151] Player 3 rolls die and its first face value is 5
+[Iteration 15] [37] [$151] Player 3 rolls die and its second face value is 5
+[Iteration 15] [37] [$151] Player 3 total face value is 10
+[Iteration 15] [7] [$151] Player 3 goes to Square7
+[Iteration 15] [7] [$151] Player 3, Do you want to buy Square7?
+[Iteration 15] [7] [$151] Player 3 don't want or cannot buy Square7
+[Iteration 16] [22] [$225] Player 4 rolls die and its first face value is 1
+[Iteration 16] [22] [$225] Player 4 rolls die and its second face value is 4
+[Iteration 16] [22] [$225] Player 4 total face value is 5
+[Iteration 16] [27] [$225] Player 4 goes to Square27
+[Iteration 16] [27] [$225] Player 4, Do you want to buy Square27?
+[Iteration 16] [27] [$225] Player 4 don't want or cannot buy Square27
+[Iteration 15] [40] [$77] Player 5 rolls die and its first face value is 5
+[Iteration 15] [40] [$77] Player 5 rolls die and its second face value is 3
+[Iteration 15] [40] [$77] Player 5 total face value is 8
+[Iteration 15] [8] [$77] Player 5 goes to Ordinary Square
+[Iteration 15] [8] [$77] Player 5 is at non specified square, no action here
+[Iteration 16] [22] [$110] Player 1 rolls die and its first face value is 3
+[Iteration 16] [22] [$110] Player 1 rolls die and its second face value is 3
+[Iteration 16] [22] [$110] Player 1 total face value is 6
+[Iteration 16] [28] [$110] Player 1 goes to Square28
+[Iteration 16] [28] [$110] Player 1, Do you want to buy Square28?
+[Iteration 16] [28] [$110] Player 1 don't want or cannot buy Square28
+[Iteration 16] [18] [$395] Player 2 rolls die and its first face value is 1
+[Iteration 16] [18] [$395] Player 2 rolls die and its second face value is 5
+[Iteration 16] [18] [$395] Player 2 total face value is 6
+[Iteration 16] [24] [$395] Player 2 goes to Square24
+[Iteration 16] [24] [$395] Player 2, Do you want to buy Square24?
+[Iteration 16] [24] [$395] Player 2 don't want or cannot buy Square24
+[Iteration 16] [7] [$151] Player 3 rolls die and its first face value is 1
+[Iteration 16] [7] [$151] Player 3 rolls die and its second face value is 5
+[Iteration 16] [7] [$151] Player 3 total face value is 6
+[Iteration 16] [13] [$151] Player 3 goes to Electric Utility Square
+[Iteration 16] [13] [$151] Player 3, Do you want to buy Electric Utility Square?
+[Iteration 16] [13] [$151] Player 3 dont want or cannot buy Electric Utility Square
+[Iteration 17] [27] [$225] Player 4 rolls die and its first face value is 3
+[Iteration 17] [27] [$225] Player 4 rolls die and its second face value is 3
+[Iteration 17] [27] [$225] Player 4 total face value is 6
+[Iteration 17] [33] [$225] Player 4 goes to Square33
+[Iteration 17] [33] [$225] Player 4, Do you want to buy Square33?
+[Iteration 17] [33] [$225] Player 4 don't want or cannot buy Square33
+[Iteration 16] [8] [$77] Player 5 rolls die and its first face value is 3
+[Iteration 16] [8] [$77] Player 5 rolls die and its second face value is 1
+[Iteration 16] [8] [$77] Player 5 total face value is 4
+[Iteration 16] [12] [$77] Player 5 goes to Square12
+[Iteration 16] [12] [$77] Player 5, Do you want to buy Square12?
+[Iteration 16] [12] [$77] Player 5 don't want or cannot buy Square12
+[Iteration 17] [28] [$110] Player 1 rolls die and its first face value is 4
+[Iteration 17] [28] [$110] Player 1 rolls die and its second face value is 1
+[Iteration 17] [28] [$110] Player 1 total face value is 5
+[Iteration 17] [33] [$110] Player 1 goes to Square33
+[Iteration 17] [33] [$110] Player 1, Do you want to buy Square33?
+[Iteration 17] [33] [$110] Player 1 don't want or cannot buy Square33
+[Iteration 17] [24] [$395] Player 2 rolls die and its first face value is 4
+[Iteration 17] [24] [$395] Player 2 rolls die and its second face value is 3
+[Iteration 17] [24] [$395] Player 2 total face value is 7
+[Iteration 17] [31] [$395] Player 2 goes to Go to Jail
+[Iteration 17] [31] [$395] Player 2 has go to Jail
+[Iteration 17] [11] [$395] Player 2 goes to Jail
+[Iteration 17] [13] [$151] Player 3 rolls die and its first face value is 4
+[Iteration 17] [13] [$151] Player 3 rolls die and its second face value is 5
+[Iteration 17] [13] [$151] Player 3 total face value is 9
+[Iteration 17] [22] [$151] Player 3 goes to Square22
+[Iteration 17] [22] [$151] Player 3, Do you want to buy Square22?
+[Iteration 17] [22] [$151] Player 3 don't want or cannot buy Square22
+[Iteration 18] [33] [$225] Player 4 rolls die and its first face value is 3
+[Iteration 18] [33] [$225] Player 4 rolls die and its second face value is 4
+[Iteration 18] [33] [$225] Player 4 total face value is 7
+[Iteration 18] [40] [$225] Player 4 goes to Square40
+[Iteration 18] [40] [$225] Player 4, Do you want to buy Square40?
+[Iteration 18] [40] [$225] Player 4 don't want or cannot buy Square40
+[Iteration 17] [12] [$77] Player 5 rolls die and its first face value is 5
+[Iteration 17] [12] [$77] Player 5 rolls die and its second face value is 3
+[Iteration 17] [12] [$77] Player 5 total face value is 8
+[Iteration 17] [20] [$77] Player 5 goes to Square20
+[Iteration 17] [20] [$77] Player 5, Do you want to buy Square20?
+[Iteration 17] [20] [$77] Player 5 don't want or cannot buy Square20
+[Iteration 18] [33] [$110] Player 1 rolls die and its first face value is 1
+[Iteration 18] [33] [$110] Player 1 rolls die and its second face value is 5
+[Iteration 18] [33] [$110] Player 1 total face value is 6
+[Iteration 18] [39] [$110] Player 1 goes to Luxury Tax Square
+[Iteration 18] [39] [$110] Player 1 is at Luxury Tax Square... loosing 75 of his/her money
+[Iteration 19] [11] [$395] Player 2 rolls die and its first face value is 4
+[Iteration 19] [11] [$395] Player 2 rolls die and its second face value is 5
+[Iteration 19] [11] [$395] Player 2 total face value is 9
+[Iteration 19] [20] [$395] Player 2 goes to Square20
+[Iteration 19] [20] [$395] Player 2, Do you want to buy Square20?
+[Iteration 19] [20] [$395] Player 2 buys Square20 for 200
+[Iteration 18] [22] [$151] Player 3 rolls die and its first face value is 1
+[Iteration 18] [22] [$151] Player 3 rolls die and its second face value is 2
+[Iteration 18] [22] [$151] Player 3 total face value is 3
+[Iteration 18] [25] [$151] Player 3 goes to Square25
+[Iteration 18] [25] [$151] Player 3, Do you want to buy Square25?
+[Iteration 18] [25] [$151] Player 3 don't want or cannot buy Square25
+[Iteration 19] [40] [$225] Player 4 rolls die and its first face value is 5
+[Iteration 19] [40] [$225] Player 4 rolls die and its second face value is 1
+[Iteration 19] [40] [$225] Player 4 total face value is 6
+[Iteration 19] [6] [$225] Player 4 goes to Railroad1 Square
+[Iteration 19] [6] [$225] Player 4 rolls die and its first face value is 3
+[Iteration 19] [6] [$225] Player 4 rolls die and its second face value is 3
+[Iteration 19] [6] [$225] Player 4 total face value is 6
+[Iteration 19] [6] [$225] Player 4 lost 5 times rolled dice + 25 55 money to Player 3
+[Iteration 18] [20] [$77] Player 5 rolls die and its first face value is 3
+[Iteration 18] [20] [$77] Player 5 rolls die and its second face value is 1
+[Iteration 18] [20] [$77] Player 5 total face value is 4
+[Iteration 18] [24] [$77] Player 5 goes to Square24
+[Iteration 18] [24] [$77] Player 5, Do you want to buy Square24?
+[Iteration 18] [24] [$77] Player 5 don't want or cannot buy Square24
+[Iteration 19] [39] [$35] Player 1 rolls die and its first face value is 1
+[Iteration 19] [39] [$35] Player 1 rolls die and its second face value is 4
+[Iteration 19] [39] [$35] Player 1 total face value is 5
+[Iteration 19] [4] [$35] Player 1 goes to Square4
+[Iteration 19] [4] [$35] Player 1, Do you want to buy Square4?
+[Iteration 19] [4] [$35] Player 1 don't want or cannot buy Square4
+[Iteration 20] [20] [$195] Player 2 rolls die and its first face value is 4
+[Iteration 20] [20] [$195] Player 2 rolls die and its second face value is 2
+[Iteration 20] [20] [$195] Player 2 total face value is 6
+[Iteration 20] [26] [$195] Player 2 goes to Railroad3 Square
+[Iteration 20] [26] [$195] Player 2, Do you want to buy Railroad3 Square?
+[Iteration 20] [26] [$195] Player 2 dont want or cannot buy Railroad3 Square
+[Iteration 19] [25] [$206] Player 3 rolls die and its first face value is 3
+[Iteration 19] [25] [$206] Player 3 rolls die and its second face value is 3
+[Iteration 19] [25] [$206] Player 3 total face value is 6
+[Iteration 19] [31] [$206] Player 3 goes to Go to Jail
+[Iteration 19] [31] [$206] Player 3 has go to Jail
+[Iteration 19] [11] [$206] Player 3 goes to Jail
+[Iteration 20] [6] [$170] Player 4 rolls die and its first face value is 1
+[Iteration 20] [6] [$170] Player 4 rolls die and its second face value is 3
+[Iteration 20] [6] [$170] Player 4 total face value is 4
+[Iteration 20] [10] [$170] Player 4 goes to Square10
+[Iteration 20] [10] [$170] Player 4, Do you want to buy Square10?
+[Iteration 20] [10] [$170] Player 4 don't want or cannot buy Square10
+[Iteration 19] [24] [$77] Player 5 rolls die and its first face value is 1
+[Iteration 19] [24] [$77] Player 5 rolls die and its second face value is 1
+[Iteration 19] [24] [$77] Player 5 total face value is 2
+[Iteration 19] [26] [$77] Player 5 goes to Railroad3 Square
+[Iteration 19] [26] [$77] Player 5, Do you want to buy Railroad3 Square?
+[Iteration 19] [26] [$77] Player 5 dont want or cannot buy Railroad3 Square
+[Iteration 20] [4] [$35] Player 1 rolls die and its first face value is 2
+[Iteration 20] [4] [$35] Player 1 rolls die and its second face value is 5
+[Iteration 20] [4] [$35] Player 1 total face value is 7
+[Iteration 20] [11] [$35] Player 1 goes to Jail
+[Iteration 21] [26] [$195] Player 2 rolls die and its first face value is 2
+[Iteration 21] [26] [$195] Player 2 rolls die and its second face value is 1
+[Iteration 21] [26] [$195] Player 2 total face value is 3
+[Iteration 21] [29] [$195] Player 2 goes to Water Utility Square
+[Iteration 21] [29] [$195] Player 2, Do you want to buy Water Utility Square?
+[Iteration 21] [29] [$195] Player 2 buys Water Utility Square for 150
+[Iteration 21] [11] [$206] Player 3 rolls die and its first face value is 5
+[Iteration 21] [11] [$206] Player 3 rolls die and its second face value is 3
+[Iteration 21] [11] [$206] Player 3 total face value is 8
+[Iteration 21] [19] [$206] Player 3 goes to Square19
+[Iteration 21] [19] [$206] Player 3 lost 14 money to Player 5
+[Iteration 21] [10] [$170] Player 4 rolls die and its first face value is 4
+[Iteration 21] [10] [$170] Player 4 rolls die and its second face value is 5
+[Iteration 21] [10] [$170] Player 4 total face value is 9
+[Iteration 21] [10] [$170] Player 4 is in Jail and lose 50 money to roll dice!
+[Iteration 21] [10] [$120] Player 4 goes to Square10
+[Iteration 21] [10] [$120] Player 4  still in jail!
+[Iteration 20] [26] [$91] Player 5 rolls die and its first face value is 5
+[Iteration 20] [26] [$91] Player 5 rolls die and its second face value is 2
+[Iteration 20] [26] [$91] Player 5 total face value is 7
+[Iteration 20] [33] [$91] Player 5 goes to Square33
+[Iteration 20] [33] [$91] Player 5, Do you want to buy Square33?
+[Iteration 20] [33] [$91] Player 5 don't want or cannot buy Square33
+[Iteration 21] [11] [$35] Player 1 rolls die and its first face value is 5
+[Iteration 21] [11] [$35] Player 1 rolls die and its second face value is 5
+[Iteration 21] [11] [$35] Player 1 total face value is 10
+[Iteration 21] [21] [$35] Player 1 goes to Free Parking
+[Iteration 21] [21] [$35] Player 1 is at free parking square, no action here
+[Iteration 22] [29] [$45] Player 2 rolls die and its first face value is 3
+[Iteration 22] [29] [$45] Player 2 rolls die and its second face value is 4
+[Iteration 22] [29] [$45] Player 2 total face value is 7
+[Iteration 22] [36] [$45] Player 2 goes to Railroad4 Square
+[Iteration 22] [36] [$45] Player 2 rolls die and its first face value is 1
+[Iteration 22] [36] [$45] Player 2 rolls die and its second face value is 5
+[Iteration 22] [36] [$45] Player 2 total face value is 6
+[Iteration 22] [36] [$45] Player 2 lost 5 times rolled dice + 25 55 money to Player 1
+[Iteration 22] [36] [$-10] Player 2 has been bankruptcy!
+[Iteration 22] [19] [$192] Player 3 rolls die and its first face value is 1
+[Iteration 22] [19] [$192] Player 3 rolls die and its second face value is 2
+[Iteration 22] [19] [$192] Player 3 total face value is 3
+[Iteration 22] [22] [$192] Player 3 goes to Square22
+[Iteration 22] [22] [$192] Player 3, Do you want to buy Square22?
+[Iteration 22] [22] [$192] Player 3 don't want or cannot buy Square22
+[Iteration 22] [10] [$120] Player 4 rolls die and its first face value is 3
+[Iteration 22] [10] [$120] Player 4 rolls die and its second face value is 3
+[Iteration 22] [10] [$120] Player 4 total face value is 6
+[Iteration 22] [10] [$120] Player 4 is in Jail and lose 50 money to roll dice!
+[Iteration 22] [10] [$70] Player 4 goes to Square10
+[Iteration 22] [10] [$70] Player 4 has been out of jail by rolling double!
+[Iteration 21] [33] [$91] Player 5 rolls die and its first face value is 4
+[Iteration 21] [33] [$91] Player 5 rolls die and its second face value is 3
+[Iteration 21] [33] [$91] Player 5 total face value is 7
+[Iteration 21] [40] [$91] Player 5 goes to Square40
+[Iteration 21] [40] [$91] Player 5, Do you want to buy Square40?
+[Iteration 21] [40] [$91] Player 5 don't want or cannot buy Square40
+[Iteration 22] [21] [$90] Player 1 rolls die and its first face value is 3
+[Iteration 22] [21] [$90] Player 1 rolls die and its second face value is 1
+[Iteration 22] [21] [$90] Player 1 total face value is 4
+[Iteration 22] [25] [$90] Player 1 goes to Square25
+[Iteration 22] [25] [$90] Player 1, Do you want to buy Square25?
+[Iteration 22] [25] [$90] Player 1 don't want or cannot buy Square25
+[Iteration 22] [36] [$-10] Player 2 removed from the game because of bankruptcy.
+[Iteration 23] [22] [$192] Player 3 rolls die and its first face value is 3
+[Iteration 23] [22] [$192] Player 3 rolls die and its second face value is 3
+[Iteration 23] [22] [$192] Player 3 total face value is 6
+[Iteration 23] [28] [$192] Player 3 goes to Square28
+[Iteration 23] [28] [$192] Player 3, Do you want to buy Square28?
+[Iteration 23] [28] [$192] Player 3 don't want or cannot buy Square28
+[Iteration 23] [16] [$70] Player 4 rolls die and its first face value is 3
+[Iteration 23] [16] [$70] Player 4 rolls die and its second face value is 1
+[Iteration 23] [16] [$70] Player 4 total face value is 4
+[Iteration 23] [20] [$70] Player 4 goes to Square20
+[Iteration 23] [20] [$70] Player 4 lost 16 money to Player 2
+[Iteration 22] [40] [$91] Player 5 rolls die and its first face value is 4
+[Iteration 22] [40] [$91] Player 5 rolls die and its second face value is 4
+[Iteration 22] [40] [$91] Player 5 total face value is 8
+[Iteration 22] [8] [$91] Player 5 goes to Ordinary Square
+[Iteration 22] [8] [$91] Player 5 is at non specified square, no action here
+[Iteration 23] [25] [$90] Player 1 rolls die and its first face value is 2
+[Iteration 23] [25] [$90] Player 1 rolls die and its second face value is 5
+[Iteration 23] [25] [$90] Player 1 total face value is 7
+[Iteration 23] [32] [$90] Player 1 goes to Square32
+[Iteration 23] [32] [$90] Player 1, Do you want to buy Square32?
+[Iteration 23] [32] [$90] Player 1 don't want or cannot buy Square32
+[Iteration 24] [28] [$192] Player 3 rolls die and its first face value is 5
+[Iteration 24] [28] [$192] Player 3 rolls die and its second face value is 2
+[Iteration 24] [28] [$192] Player 3 total face value is 7
+[Iteration 24] [35] [$192] Player 3 goes to Square35
+[Iteration 24] [35] [$192] Player 3, Do you want to buy Square35?
+[Iteration 24] [35] [$192] Player 3 don't want or cannot buy Square35
+[Iteration 24] [20] [$54] Player 4 rolls die and its first face value is 1
+[Iteration 24] [20] [$54] Player 4 rolls die and its second face value is 3
+[Iteration 24] [20] [$54] Player 4 total face value is 4
+[Iteration 24] [24] [$54] Player 4 goes to Square24
+[Iteration 24] [24] [$54] Player 4, Do you want to buy Square24?
+[Iteration 24] [24] [$54] Player 4 don't want or cannot buy Square24
+[Iteration 23] [8] [$91] Player 5 rolls die and its first face value is 1
+[Iteration 23] [8] [$91] Player 5 rolls die and its second face value is 5
+[Iteration 23] [8] [$91] Player 5 total face value is 6
+[Iteration 23] [14] [$91] Player 5 goes to Square14
+[Iteration 23] [14] [$91] Player 5 lost 10 money to Player 1
+[Iteration 24] [32] [$100] Player 1 rolls die and its first face value is 1
+[Iteration 24] [32] [$100] Player 1 rolls die and its second face value is 2
+[Iteration 24] [32] [$100] Player 1 total face value is 3
+[Iteration 24] [35] [$100] Player 1 goes to Square35
+[Iteration 24] [35] [$100] Player 1, Do you want to buy Square35?
+[Iteration 24] [35] [$100] Player 1 don't want or cannot buy Square35
+[Iteration 25] [35] [$192] Player 3 rolls die and its first face value is 5
+[Iteration 25] [35] [$192] Player 3 rolls die and its second face value is 1
+[Iteration 25] [35] [$192] Player 3 total face value is 6
+[Iteration 25] [1] [$192] Player 3 goes to GO
+[Iteration 25] [1] [$192] Player 3 is at Go... Giving 200 money
+[Iteration 25] [24] [$54] Player 4 rolls die and its first face value is 3
+[Iteration 25] [24] [$54] Player 4 rolls die and its second face value is 1
+[Iteration 25] [24] [$54] Player 4 total face value is 4
+[Iteration 25] [28] [$54] Player 4 goes to Square28
+[Iteration 25] [28] [$54] Player 4, Do you want to buy Square28?
+[Iteration 25] [28] [$54] Player 4 don't want or cannot buy Square28
+[Iteration 24] [14] [$81] Player 5 rolls die and its first face value is 1
+[Iteration 24] [14] [$81] Player 5 rolls die and its second face value is 2
+[Iteration 24] [14] [$81] Player 5 total face value is 3
+[Iteration 24] [17] [$81] Player 5 goes to Square17
+[Iteration 24] [17] [$81] Player 5 lost 14 money to Player 6
+[Iteration 25] [35] [$100] Player 1 rolls die and its first face value is 4
+[Iteration 25] [35] [$100] Player 1 rolls die and its second face value is 3
+[Iteration 25] [35] [$100] Player 1 total face value is 7
+[Iteration 25] [2] [$100] Player 1 goes to Square2
+[Iteration 25] [2] [$100] Player 1, Do you want to buy Square2?
+[Iteration 25] [2] [$100] Player 1 don't want or cannot buy Square2
+[Iteration 26] [1] [$392] Player 3 rolls die and its first face value is 3
+[Iteration 26] [1] [$392] Player 3 rolls die and its second face value is 3
+[Iteration 26] [1] [$392] Player 3 total face value is 6
+[Iteration 26] [7] [$392] Player 3 goes to Square7
+[Iteration 26] [7] [$392] Player 3, Do you want to buy Square7?
+[Iteration 26] [7] [$392] Player 3 buys Square7 for 100
+[Iteration 26] [28] [$54] Player 4 rolls die and its first face value is 1
+[Iteration 26] [28] [$54] Player 4 rolls die and its second face value is 1
+[Iteration 26] [28] [$54] Player 4 total face value is 2
+[Iteration 26] [30] [$54] Player 4 goes to Square30
+[Iteration 26] [30] [$54] Player 4, Do you want to buy Square30?
+[Iteration 26] [30] [$54] Player 4 don't want or cannot buy Square30
+[Iteration 25] [17] [$67] Player 5 rolls die and its first face value is 5
+[Iteration 25] [17] [$67] Player 5 rolls die and its second face value is 5
+[Iteration 25] [17] [$67] Player 5 total face value is 10
+[Iteration 25] [27] [$67] Player 5 goes to Square27
+[Iteration 25] [27] [$67] Player 5, Do you want to buy Square27?
+[Iteration 25] [27] [$67] Player 5 don't want or cannot buy Square27
+[Iteration 26] [2] [$100] Player 1 rolls die and its first face value is 1
+[Iteration 26] [2] [$100] Player 1 rolls die and its second face value is 5
+[Iteration 26] [2] [$100] Player 1 total face value is 6
+[Iteration 26] [8] [$100] Player 1 goes to Ordinary Square
+[Iteration 26] [8] [$100] Player 1 is at non specified square, no action here
+[Iteration 27] [7] [$292] Player 3 rolls die and its first face value is 5
+[Iteration 27] [7] [$292] Player 3 rolls die and its second face value is 3
+[Iteration 27] [7] [$292] Player 3 total face value is 8
+[Iteration 27] [15] [$292] Player 3 goes to Square15
+[Iteration 27] [15] [$292] Player 3, Do you want to buy Square15?
+[Iteration 27] [15] [$292] Player 3 buys Square15 for 160
+[Iteration 27] [30] [$54] Player 4 rolls die and its first face value is 2
+[Iteration 27] [30] [$54] Player 4 rolls die and its second face value is 1
+[Iteration 27] [30] [$54] Player 4 total face value is 3
+[Iteration 27] [33] [$54] Player 4 goes to Square33
+[Iteration 27] [33] [$54] Player 4, Do you want to buy Square33?
+[Iteration 27] [33] [$54] Player 4 don't want or cannot buy Square33
+[Iteration 26] [27] [$67] Player 5 rolls die and its first face value is 4
+[Iteration 26] [27] [$67] Player 5 rolls die and its second face value is 3
+[Iteration 26] [27] [$67] Player 5 total face value is 7
+[Iteration 26] [34] [$67] Player 5 goes to Ordinary Square
+[Iteration 26] [34] [$67] Player 5 is at non specified square, no action here
+[Iteration 27] [8] [$100] Player 1 rolls die and its first face value is 2
+[Iteration 27] [8] [$100] Player 1 rolls die and its second face value is 4
+[Iteration 27] [8] [$100] Player 1 total face value is 6
+[Iteration 27] [14] [$100] Player 1 goes to Square14
+[Iteration 28] [15] [$132] Player 3 rolls die and its first face value is 5
+[Iteration 28] [15] [$132] Player 3 rolls die and its second face value is 3
+[Iteration 28] [15] [$132] Player 3 total face value is 8
+[Iteration 28] [23] [$132] Player 3 goes to Ordinary Square
+[Iteration 28] [23] [$132] Player 3 is at non specified square, no action here
+[Iteration 28] [33] [$54] Player 4 rolls die and its first face value is 5
+[Iteration 28] [33] [$54] Player 4 rolls die and its second face value is 4
+[Iteration 28] [33] [$54] Player 4 total face value is 9
+[Iteration 28] [2] [$54] Player 4 goes to Square2
+[Iteration 28] [2] [$54] Player 4, Do you want to buy Square2?
+[Iteration 28] [2] [$54] Player 4 don't want or cannot buy Square2
+[Iteration 27] [34] [$67] Player 5 rolls die and its first face value is 3
+[Iteration 27] [34] [$67] Player 5 rolls die and its second face value is 4
+[Iteration 27] [34] [$67] Player 5 total face value is 7
+[Iteration 27] [1] [$67] Player 5 goes to GO
+[Iteration 27] [1] [$67] Player 5 is at Go... Giving 200 money
+[Iteration 28] [14] [$100] Player 1 rolls die and its first face value is 1
+[Iteration 28] [14] [$100] Player 1 rolls die and its second face value is 5
+[Iteration 28] [14] [$100] Player 1 total face value is 6
+[Iteration 28] [20] [$100] Player 1 goes to Square20
+[Iteration 28] [20] [$100] Player 1 lost 16 money to Player 2
+[Iteration 29] [23] [$132] Player 3 rolls die and its first face value is 3
+[Iteration 29] [23] [$132] Player 3 rolls die and its second face value is 1
+[Iteration 29] [23] [$132] Player 3 total face value is 4
+[Iteration 29] [27] [$132] Player 3 goes to Square27
+[Iteration 29] [27] [$132] Player 3, Do you want to buy Square27?
+[Iteration 29] [27] [$132] Player 3 don't want or cannot buy Square27
+[Iteration 29] [2] [$54] Player 4 rolls die and its first face value is 5
+[Iteration 29] [2] [$54] Player 4 rolls die and its second face value is 5
+[Iteration 29] [2] [$54] Player 4 total face value is 10
+[Iteration 29] [12] [$54] Player 4 goes to Square12
+[Iteration 29] [12] [$54] Player 4, Do you want to buy Square12?
+[Iteration 29] [12] [$54] Player 4 don't want or cannot buy Square12
+[Iteration 28] [1] [$267] Player 5 rolls die and its first face value is 2
+[Iteration 28] [1] [$267] Player 5 rolls die and its second face value is 1
+[Iteration 28] [1] [$267] Player 5 total face value is 3
+[Iteration 28] [4] [$267] Player 5 goes to Square4
+[Iteration 28] [4] [$267] Player 5, Do you want to buy Square4?
+[Iteration 28] [4] [$267] Player 5 don't want or cannot buy Square4
+[Iteration 29] [20] [$84] Player 1 rolls die and its first face value is 3
+[Iteration 29] [20] [$84] Player 1 rolls die and its second face value is 1
+[Iteration 29] [20] [$84] Player 1 total face value is 4
+[Iteration 29] [24] [$84] Player 1 goes to Square24
+[Iteration 29] [24] [$84] Player 1, Do you want to buy Square24?
+[Iteration 29] [24] [$84] Player 1 don't want or cannot buy Square24
+[Iteration 30] [27] [$132] Player 3 rolls die and its first face value is 1
+[Iteration 30] [27] [$132] Player 3 rolls die and its second face value is 3
+[Iteration 30] [27] [$132] Player 3 total face value is 4
+[Iteration 30] [31] [$132] Player 3 goes to Go to Jail
+[Iteration 30] [31] [$132] Player 3 has go to Jail
+[Iteration 30] [11] [$132] Player 3 goes to Jail
+[Iteration 30] [12] [$54] Player 4 rolls die and its first face value is 2
+[Iteration 30] [12] [$54] Player 4 rolls die and its second face value is 1
+[Iteration 30] [12] [$54] Player 4 total face value is 3
+[Iteration 30] [15] [$54] Player 4 goes to Square15
+[Iteration 30] [15] [$54] Player 4 lost 12 money to Player 3
+[Iteration 29] [4] [$267] Player 5 rolls die and its first face value is 5
+[Iteration 29] [4] [$267] Player 5 rolls die and its second face value is 1
+[Iteration 29] [4] [$267] Player 5 total face value is 6
+[Iteration 29] [10] [$267] Player 5 goes to Square10
+[Iteration 29] [10] [$267] Player 5, Do you want to buy Square10?
+[Iteration 29] [10] [$267] Player 5 don't want or cannot buy Square10
+[Iteration 30] [24] [$84] Player 1 rolls die and its first face value is 3
+[Iteration 30] [24] [$84] Player 1 rolls die and its second face value is 4
+[Iteration 30] [24] [$84] Player 1 total face value is 7
+[Iteration 30] [31] [$84] Player 1 goes to Go to Jail
+[Iteration 30] [31] [$84] Player 1 has go to Jail
+[Iteration 30] [11] [$84] Player 1 goes to Jail
+[Iteration 32] [11] [$144] Player 3 rolls die and its first face value is 2
+[Iteration 32] [11] [$144] Player 3 rolls die and its second face value is 5
+[Iteration 32] [11] [$144] Player 3 total face value is 7
+[Iteration 32] [18] [$144] Player 3 goes to Ordinary Square
+[Iteration 32] [18] [$144] Player 3 is at non specified square, no action here
+[Iteration 31] [15] [$42] Player 4 rolls die and its first face value is 5
+[Iteration 31] [15] [$42] Player 4 rolls die and its second face value is 1
+[Iteration 31] [15] [$42] Player 4 total face value is 6
+[Iteration 31] [21] [$42] Player 4 goes to Free Parking
+[Iteration 31] [21] [$42] Player 4 is at free parking square, no action here
+[Iteration 30] [10] [$267] Player 5 rolls die and its first face value is 4
+[Iteration 30] [10] [$267] Player 5 rolls die and its second face value is 2
+[Iteration 30] [10] [$267] Player 5 total face value is 6
+[Iteration 30] [16] [$267] Player 5 goes to Railroad2 Square
+[Iteration 30] [16] [$267] Player 5, Do you want to buy Railroad2 Square?
+[Iteration 30] [16] [$267] Player 5 dont want or cannot buy Railroad2 Square
+[Iteration 32] [11] [$84] Player 1 rolls die and its first face value is 3
+[Iteration 32] [11] [$84] Player 1 rolls die and its second face value is 1
+[Iteration 32] [11] [$84] Player 1 total face value is 4
+[Iteration 32] [15] [$84] Player 1 goes to Square15
+[Iteration 32] [15] [$84] Player 1 lost 12 money to Player 3
+[Iteration 33] [18] [$156] Player 3 rolls die and its first face value is 3
+[Iteration 33] [18] [$156] Player 3 rolls die and its second face value is 3
+[Iteration 33] [18] [$156] Player 3 total face value is 6
+[Iteration 33] [24] [$156] Player 3 goes to Square24
+[Iteration 33] [24] [$156] Player 3, Do you want to buy Square24?
+[Iteration 33] [24] [$156] Player 3 don't want or cannot buy Square24
+[Iteration 32] [21] [$42] Player 4 rolls die and its first face value is 5
+[Iteration 32] [21] [$42] Player 4 rolls die and its second face value is 4
+[Iteration 32] [21] [$42] Player 4 total face value is 9
+[Iteration 32] [30] [$42] Player 4 goes to Square30
+[Iteration 32] [30] [$42] Player 4, Do you want to buy Square30?
+[Iteration 32] [30] [$42] Player 4 don't want or cannot buy Square30
+[Iteration 31] [16] [$267] Player 5 rolls die and its first face value is 2
+[Iteration 31] [16] [$267] Player 5 rolls die and its second face value is 4
+[Iteration 31] [16] [$267] Player 5 total face value is 6
+[Iteration 31] [22] [$267] Player 5 goes to Square22
+[Iteration 31] [22] [$267] Player 5, Do you want to buy Square22?
+[Iteration 31] [22] [$267] Player 5 buys Square22 for 220
+[Iteration 33] [15] [$72] Player 1 rolls die and its first face value is 3
+[Iteration 33] [15] [$72] Player 1 rolls die and its second face value is 4
+[Iteration 33] [15] [$72] Player 1 total face value is 7
+[Iteration 33] [22] [$72] Player 1 goes to Square22
+[Iteration 33] [22] [$72] Player 1 lost 18 money to Player 5
+[Iteration 34] [24] [$156] Player 3 rolls die and its first face value is 3
+[Iteration 34] [24] [$156] Player 3 rolls die and its second face value is 5
+[Iteration 34] [24] [$156] Player 3 total face value is 8
+[Iteration 34] [32] [$156] Player 3 goes to Square32
+[Iteration 34] [32] [$156] Player 3, Do you want to buy Square32?
+[Iteration 34] [32] [$156] Player 3 don't want or cannot buy Square32
+[Iteration 33] [30] [$42] Player 4 rolls die and its first face value is 3
+[Iteration 33] [30] [$42] Player 4 rolls die and its second face value is 4
+[Iteration 33] [30] [$42] Player 4 total face value is 7
+[Iteration 33] [37] [$42] Player 4 goes to Ordinary Square
+[Iteration 33] [37] [$42] Player 4 is at non specified square, no action here
+[Iteration 32] [22] [$65] Player 5 rolls die and its first face value is 1
+[Iteration 32] [22] [$65] Player 5 rolls die and its second face value is 3
+[Iteration 32] [22] [$65] Player 5 total face value is 4
+[Iteration 32] [26] [$65] Player 5 goes to Railroad3 Square
+[Iteration 32] [26] [$65] Player 5, Do you want to buy Railroad3 Square?
+[Iteration 32] [26] [$65] Player 5 dont want or cannot buy Railroad3 Square
+[Iteration 34] [22] [$54] Player 1 rolls die and its first face value is 1
+[Iteration 34] [22] [$54] Player 1 rolls die and its second face value is 3
+[Iteration 34] [22] [$54] Player 1 total face value is 4
+[Iteration 34] [26] [$54] Player 1 goes to Railroad3 Square
+[Iteration 34] [26] [$54] Player 1, Do you want to buy Railroad3 Square?
+[Iteration 34] [26] [$54] Player 1 dont want or cannot buy Railroad3 Square
+[Iteration 35] [32] [$156] Player 3 rolls die and its first face value is 2
+[Iteration 35] [32] [$156] Player 3 rolls die and its second face value is 3
+[Iteration 35] [32] [$156] Player 3 total face value is 5
+[Iteration 35] [37] [$156] Player 3 goes to Ordinary Square
+[Iteration 35] [37] [$156] Player 3 is at non specified square, no action here
+[Iteration 34] [37] [$42] Player 4 rolls die and its first face value is 1
+[Iteration 34] [37] [$42] Player 4 rolls die and its second face value is 2
+[Iteration 34] [37] [$42] Player 4 total face value is 3
+[Iteration 34] [40] [$42] Player 4 goes to Square40
+[Iteration 34] [40] [$42] Player 4, Do you want to buy Square40?
+[Iteration 34] [40] [$42] Player 4 don't want or cannot buy Square40
+[Iteration 33] [26] [$65] Player 5 rolls die and its first face value is 4
+[Iteration 33] [26] [$65] Player 5 rolls die and its second face value is 4
+[Iteration 33] [26] [$65] Player 5 total face value is 8
+[Iteration 33] [34] [$65] Player 5 goes to Ordinary Square
+[Iteration 33] [34] [$65] Player 5 is at non specified square, no action here
+[Iteration 35] [26] [$54] Player 1 rolls die and its first face value is 1
+[Iteration 35] [26] [$54] Player 1 rolls die and its second face value is 3
+[Iteration 35] [26] [$54] Player 1 total face value is 4
+[Iteration 35] [30] [$54] Player 1 goes to Square30
+[Iteration 35] [30] [$54] Player 1, Do you want to buy Square30?
+[Iteration 35] [30] [$54] Player 1 don't want or cannot buy Square30
+[Iteration 36] [37] [$156] Player 3 rolls die and its first face value is 2
+[Iteration 36] [37] [$156] Player 3 rolls die and its second face value is 4
+[Iteration 36] [37] [$156] Player 3 total face value is 6
+[Iteration 36] [3] [$156] Player 3 goes to Ordinary Square
+[Iteration 36] [3] [$156] Player 3 is at non specified square, no action here
+[Iteration 35] [40] [$42] Player 4 rolls die and its first face value is 4
+[Iteration 35] [40] [$42] Player 4 rolls die and its second face value is 1
+[Iteration 35] [40] [$42] Player 4 total face value is 5
+[Iteration 35] [5] [$42] Player 4 goes to Income Tax Square
+[Iteration 35] [5] [$42] Player 4 is at Income Tax Square... loosing %10 of his/her money
+[Iteration 34] [34] [$65] Player 5 rolls die and its first face value is 3
+[Iteration 34] [34] [$65] Player 5 rolls die and its second face value is 4
+[Iteration 34] [34] [$65] Player 5 total face value is 7
+[Iteration 34] [1] [$65] Player 5 goes to GO
+[Iteration 34] [1] [$65] Player 5 is at Go... Giving 200 money
+[Iteration 36] [30] [$54] Player 1 rolls die and its first face value is 2
+[Iteration 36] [30] [$54] Player 1 rolls die and its second face value is 3
+[Iteration 36] [30] [$54] Player 1 total face value is 5
+[Iteration 36] [35] [$54] Player 1 goes to Square35
+[Iteration 36] [35] [$54] Player 1, Do you want to buy Square35?
+[Iteration 36] [35] [$54] Player 1 don't want or cannot buy Square35
+[Iteration 37] [3] [$156] Player 3 rolls die and its first face value is 3
+[Iteration 37] [3] [$156] Player 3 rolls die and its second face value is 5
+[Iteration 37] [3] [$156] Player 3 total face value is 8
+[Iteration 37] [11] [$156] Player 3 goes to Jail
+[Iteration 36] [5] [$38] Player 4 rolls die and its first face value is 4
+[Iteration 36] [5] [$38] Player 4 rolls die and its second face value is 1
+[Iteration 36] [5] [$38] Player 4 total face value is 5
+[Iteration 36] [10] [$38] Player 4 goes to Square10
+[Iteration 36] [10] [$38] Player 4, Do you want to buy Square10?
+[Iteration 36] [10] [$38] Player 4 don't want or cannot buy Square10
+[Iteration 35] [1] [$265] Player 5 rolls die and its first face value is 1
+[Iteration 35] [1] [$265] Player 5 rolls die and its second face value is 2
+[Iteration 35] [1] [$265] Player 5 total face value is 3
+[Iteration 35] [4] [$265] Player 5 goes to Square4
+[Iteration 35] [4] [$265] Player 5, Do you want to buy Square4?
+[Iteration 35] [4] [$265] Player 5 don't want or cannot buy Square4
+[Iteration 37] [35] [$54] Player 1 rolls die and its first face value is 3
+[Iteration 37] [35] [$54] Player 1 rolls die and its second face value is 4
+[Iteration 37] [35] [$54] Player 1 total face value is 7
+[Iteration 37] [2] [$54] Player 1 goes to Square2
+[Iteration 37] [2] [$54] Player 1, Do you want to buy Square2?
+[Iteration 37] [2] [$54] Player 1 don't want or cannot buy Square2
+[Iteration 38] [11] [$156] Player 3 rolls die and its first face value is 4
+[Iteration 38] [11] [$156] Player 3 rolls die and its second face value is 3
+[Iteration 38] [11] [$156] Player 3 total face value is 7
+[Iteration 38] [18] [$156] Player 3 goes to Ordinary Square
+[Iteration 38] [18] [$156] Player 3 is at non specified square, no action here
+[Iteration 37] [10] [$38] Player 4 rolls die and its first face value is 5
+[Iteration 37] [10] [$38] Player 4 rolls die and its second face value is 3
+[Iteration 37] [10] [$38] Player 4 total face value is 8
+[Iteration 37] [18] [$38] Player 4 goes to Ordinary Square
+[Iteration 37] [18] [$38] Player 4 is at non specified square, no action here
+[Iteration 36] [4] [$265] Player 5 rolls die and its first face value is 5
+[Iteration 36] [4] [$265] Player 5 rolls die and its second face value is 2
+[Iteration 36] [4] [$265] Player 5 total face value is 7
+[Iteration 36] [11] [$265] Player 5 goes to Jail
+[Iteration 38] [2] [$54] Player 1 rolls die and its first face value is 2
+[Iteration 38] [2] [$54] Player 1 rolls die and its second face value is 4
+[Iteration 38] [2] [$54] Player 1 total face value is 6
+[Iteration 38] [8] [$54] Player 1 goes to Ordinary Square
+[Iteration 38] [8] [$54] Player 1 is at non specified square, no action here
+[Iteration 39] [18] [$156] Player 3 rolls die and its first face value is 4
+[Iteration 39] [18] [$156] Player 3 rolls die and its second face value is 3
+[Iteration 39] [18] [$156] Player 3 total face value is 7
+[Iteration 39] [25] [$156] Player 3 goes to Square25
+[Iteration 39] [25] [$156] Player 3, Do you want to buy Square25?
+[Iteration 39] [25] [$156] Player 3 don't want or cannot buy Square25
+[Iteration 38] [18] [$38] Player 4 rolls die and its first face value is 1
+[Iteration 38] [18] [$38] Player 4 rolls die and its second face value is 3
+[Iteration 38] [18] [$38] Player 4 total face value is 4
+[Iteration 38] [22] [$38] Player 4 goes to Square22
+[Iteration 38] [22] [$38] Player 4 lost 18 money to Player 5
+[Iteration 37] [11] [$283] Player 5 rolls die and its first face value is 4
+[Iteration 37] [11] [$283] Player 5 rolls die and its second face value is 3
+[Iteration 37] [11] [$283] Player 5 total face value is 7
+[Iteration 37] [18] [$283] Player 5 goes to Ordinary Square
+[Iteration 37] [18] [$283] Player 5 is at non specified square, no action here
+[Iteration 39] [8] [$54] Player 1 rolls die and its first face value is 4
+[Iteration 39] [8] [$54] Player 1 rolls die and its second face value is 5
+[Iteration 39] [8] [$54] Player 1 total face value is 9
+[Iteration 39] [17] [$54] Player 1 goes to Square17
+[Iteration 39] [17] [$54] Player 1 lost 14 money to Player 6
+[Iteration 40] [25] [$156] Player 3 rolls die and its first face value is 2
+[Iteration 40] [25] [$156] Player 3 rolls die and its second face value is 5
+[Iteration 40] [25] [$156] Player 3 total face value is 7
+[Iteration 40] [32] [$156] Player 3 goes to Square32
+[Iteration 40] [32] [$156] Player 3, Do you want to buy Square32?
+[Iteration 40] [32] [$156] Player 3 don't want or cannot buy Square32
+[Iteration 39] [22] [$20] Player 4 rolls die and its first face value is 2
+[Iteration 39] [22] [$20] Player 4 rolls die and its second face value is 3
+[Iteration 39] [22] [$20] Player 4 total face value is 5
+[Iteration 39] [27] [$20] Player 4 goes to Square27
+[Iteration 39] [27] [$20] Player 4, Do you want to buy Square27?
+[Iteration 39] [27] [$20] Player 4 don't want or cannot buy Square27
+[Iteration 38] [18] [$283] Player 5 rolls die and its first face value is 5
+[Iteration 38] [18] [$283] Player 5 rolls die and its second face value is 3
+[Iteration 38] [18] [$283] Player 5 total face value is 8
+[Iteration 38] [26] [$283] Player 5 goes to Railroad3 Square
+[Iteration 38] [26] [$283] Player 5, Do you want to buy Railroad3 Square?
+[Iteration 38] [26] [$283] Player 5 buys Railroad3 Square for 200
+[Iteration 40] [17] [$40] Player 1 rolls die and its first face value is 3
+[Iteration 40] [17] [$40] Player 1 rolls die and its second face value is 1
+[Iteration 40] [17] [$40] Player 1 total face value is 4
+[Iteration 40] [21] [$40] Player 1 goes to Free Parking
+[Iteration 40] [21] [$40] Player 1 is at free parking square, no action here
+[Iteration 41] [32] [$156] Player 3 rolls die and its first face value is 5
+[Iteration 41] [32] [$156] Player 3 rolls die and its second face value is 2
+[Iteration 41] [32] [$156] Player 3 total face value is 7
+[Iteration 41] [39] [$156] Player 3 goes to Luxury Tax Square
+[Iteration 41] [39] [$156] Player 3 is at Luxury Tax Square... loosing 75 of his/her money
+[Iteration 40] [27] [$20] Player 4 rolls die and its first face value is 5
+[Iteration 40] [27] [$20] Player 4 rolls die and its second face value is 5
+[Iteration 40] [27] [$20] Player 4 total face value is 10
+[Iteration 40] [37] [$20] Player 4 goes to Ordinary Square
+[Iteration 40] [37] [$20] Player 4 is at non specified square, no action here
+[Iteration 39] [26] [$83] Player 5 rolls die and its first face value is 2
+[Iteration 39] [26] [$83] Player 5 rolls die and its second face value is 5
+[Iteration 39] [26] [$83] Player 5 total face value is 7
+[Iteration 39] [33] [$83] Player 5 goes to Square33
+[Iteration 39] [33] [$83] Player 5, Do you want to buy Square33?
+[Iteration 39] [33] [$83] Player 5 don't want or cannot buy Square33
+[Iteration 41] [21] [$40] Player 1 rolls die and its first face value is 5
+[Iteration 41] [21] [$40] Player 1 rolls die and its second face value is 5
+[Iteration 41] [21] [$40] Player 1 total face value is 10
+[Iteration 41] [31] [$40] Player 1 goes to Go to Jail
+[Iteration 41] [31] [$40] Player 1 has go to Jail
+[Iteration 41] [11] [$40] Player 1 goes to Jail
+[Iteration 42] [39] [$81] Player 3 rolls die and its first face value is 3
+[Iteration 42] [39] [$81] Player 3 rolls die and its second face value is 5
+[Iteration 42] [39] [$81] Player 3 total face value is 8
+[Iteration 42] [7] [$81] Player 3 goes to Square7
+[Iteration 41] [37] [$20] Player 4 rolls die and its first face value is 3
+[Iteration 41] [37] [$20] Player 4 rolls die and its second face value is 3
+[Iteration 41] [37] [$20] Player 4 total face value is 6
+[Iteration 41] [3] [$20] Player 4 goes to Ordinary Square
+[Iteration 41] [3] [$20] Player 4 is at non specified square, no action here
+[Iteration 40] [33] [$83] Player 5 rolls die and its first face value is 1
+[Iteration 40] [33] [$83] Player 5 rolls die and its second face value is 1
+[Iteration 40] [33] [$83] Player 5 total face value is 2
+[Iteration 40] [35] [$83] Player 5 goes to Square35
+[Iteration 40] [35] [$83] Player 5, Do you want to buy Square35?
+[Iteration 40] [35] [$83] Player 5 don't want or cannot buy Square35
+[Iteration 43] [11] [$40] Player 1 rolls die and its first face value is 5
+[Iteration 43] [11] [$40] Player 1 rolls die and its second face value is 1
+[Iteration 43] [11] [$40] Player 1 total face value is 6
+[Iteration 43] [17] [$40] Player 1 goes to Square17
+[Iteration 43] [17] [$40] Player 1 lost 14 money to Player 6
+[Iteration 43] [7] [$81] Player 3 rolls die and its first face value is 5
+[Iteration 43] [7] [$81] Player 3 rolls die and its second face value is 4
+[Iteration 43] [7] [$81] Player 3 total face value is 9
+[Iteration 43] [16] [$81] Player 3 goes to Railroad2 Square
+[Iteration 43] [16] [$81] Player 3, Do you want to buy Railroad2 Square?
+[Iteration 43] [16] [$81] Player 3 dont want or cannot buy Railroad2 Square
+[Iteration 42] [3] [$20] Player 4 rolls die and its first face value is 5
+[Iteration 42] [3] [$20] Player 4 rolls die and its second face value is 2
+[Iteration 42] [3] [$20] Player 4 total face value is 7
+[Iteration 42] [10] [$20] Player 4 goes to Square10
+[Iteration 42] [10] [$20] Player 4, Do you want to buy Square10?
+[Iteration 42] [10] [$20] Player 4 don't want or cannot buy Square10
+[Iteration 41] [35] [$83] Player 5 rolls die and its first face value is 1
+[Iteration 41] [35] [$83] Player 5 rolls die and its second face value is 3
+[Iteration 41] [35] [$83] Player 5 total face value is 4
+[Iteration 41] [39] [$83] Player 5 goes to Luxury Tax Square
+[Iteration 41] [39] [$83] Player 5 is at Luxury Tax Square... loosing 75 of his/her money
+[Iteration 41] [39] [$8] Player 5 has been bankruptcy!
+[Iteration 44] [17] [$26] Player 1 rolls die and its first face value is 5
+[Iteration 44] [17] [$26] Player 1 rolls die and its second face value is 3
+[Iteration 44] [17] [$26] Player 1 total face value is 8
+[Iteration 44] [25] [$26] Player 1 goes to Square25
+[Iteration 44] [25] [$26] Player 1, Do you want to buy Square25?
+[Iteration 44] [25] [$26] Player 1 don't want or cannot buy Square25
+[Iteration 44] [16] [$81] Player 3 rolls die and its first face value is 1
+[Iteration 44] [16] [$81] Player 3 rolls die and its second face value is 1
+[Iteration 44] [16] [$81] Player 3 total face value is 2
+[Iteration 44] [18] [$81] Player 3 goes to Ordinary Square
+[Iteration 44] [18] [$81] Player 3 is at non specified square, no action here
+[Iteration 43] [10] [$20] Player 4 rolls die and its first face value is 2
+[Iteration 43] [10] [$20] Player 4 rolls die and its second face value is 2
+[Iteration 43] [10] [$20] Player 4 total face value is 4
+[Iteration 43] [14] [$20] Player 4 goes to Square14
+[Iteration 43] [14] [$20] Player 4 lost 10 money to Player 1
+[Iteration 43] [14] [$10] Player 4 has been bankruptcy!
+[Iteration 41] [39] [$8] Player 5 removed from the game because of bankruptcy.
+[Iteration 45] [25] [$36] Player 1 rolls die and its first face value is 5
+[Iteration 45] [25] [$36] Player 1 rolls die and its second face value is 1
+[Iteration 45] [25] [$36] Player 1 total face value is 6
+[Iteration 45] [31] [$36] Player 1 goes to Go to Jail
+[Iteration 45] [31] [$36] Player 1 has go to Jail
+[Iteration 45] [11] [$36] Player 1 goes to Jail
+[Iteration 45] [18] [$81] Player 3 rolls die and its first face value is 5
+[Iteration 45] [18] [$81] Player 3 rolls die and its second face value is 2
+[Iteration 45] [18] [$81] Player 3 total face value is 7
+[Iteration 45] [25] [$81] Player 3 goes to Square25
+[Iteration 45] [25] [$81] Player 3, Do you want to buy Square25?
+[Iteration 45] [25] [$81] Player 3 don't want or cannot buy Square25
+[Iteration 43] [14] [$10] Player 4 removed from the game because of bankruptcy.
+[Iteration 47] [11] [$36] Player 1 rolls die and its first face value is 5
+[Iteration 47] [11] [$36] Player 1 rolls die and its second face value is 2
+[Iteration 47] [11] [$36] Player 1 total face value is 7
+[Iteration 47] [18] [$36] Player 1 goes to Ordinary Square
+[Iteration 47] [18] [$36] Player 1 is at non specified square, no action here
+[Iteration 46] [25] [$81] Player 3 rolls die and its first face value is 3
+[Iteration 46] [25] [$81] Player 3 rolls die and its second face value is 3
+[Iteration 46] [25] [$81] Player 3 total face value is 6
+[Iteration 46] [31] [$81] Player 3 goes to Go to Jail
+[Iteration 46] [31] [$81] Player 3 has go to Jail
+[Iteration 46] [11] [$81] Player 3 goes to Jail
+[Iteration 48] [18] [$36] Player 1 rolls die and its first face value is 4
+[Iteration 48] [18] [$36] Player 1 rolls die and its second face value is 3
+[Iteration 48] [18] [$36] Player 1 total face value is 7
+[Iteration 48] [25] [$36] Player 1 goes to Square25
+[Iteration 48] [25] [$36] Player 1, Do you want to buy Square25?
+[Iteration 48] [25] [$36] Player 1 don't want or cannot buy Square25
+[Iteration 48] [11] [$81] Player 3 rolls die and its first face value is 5
+[Iteration 48] [11] [$81] Player 3 rolls die and its second face value is 5
+[Iteration 48] [11] [$81] Player 3 total face value is 10
+[Iteration 48] [21] [$81] Player 3 goes to Free Parking
+[Iteration 48] [21] [$81] Player 3 is at free parking square, no action here
+[Iteration 49] [25] [$36] Player 1 rolls die and its first face value is 3
+[Iteration 49] [25] [$36] Player 1 rolls die and its second face value is 3
+[Iteration 49] [25] [$36] Player 1 total face value is 6
+[Iteration 49] [31] [$36] Player 1 goes to Go to Jail
+[Iteration 49] [31] [$36] Player 1 has go to Jail
+[Iteration 49] [11] [$36] Player 1 goes to Jail
+[Iteration 49] [21] [$81] Player 3 rolls die and its first face value is 5
+[Iteration 49] [21] [$81] Player 3 rolls die and its second face value is 4
+[Iteration 49] [21] [$81] Player 3 total face value is 9
+[Iteration 49] [30] [$81] Player 3 goes to Square30
+[Iteration 49] [30] [$81] Player 3, Do you want to buy Square30?
+[Iteration 49] [30] [$81] Player 3 don't want or cannot buy Square30
+[Iteration 51] [11] [$36] Player 1 rolls die and its first face value is 3
+[Iteration 51] [11] [$36] Player 1 rolls die and its second face value is 5
+[Iteration 51] [11] [$36] Player 1 total face value is 8
+[Iteration 51] [19] [$36] Player 1 goes to Square19
+[Iteration 51] [19] [$36] Player 1 lost 14 money to Player 5
+[Iteration 50] [30] [$81] Player 3 rolls die and its first face value is 4
+[Iteration 50] [30] [$81] Player 3 rolls die and its second face value is 5
+[Iteration 50] [30] [$81] Player 3 total face value is 9
+[Iteration 50] [39] [$81] Player 3 goes to Luxury Tax Square
+[Iteration 50] [39] [$81] Player 3 is at Luxury Tax Square... loosing 75 of his/her money
+[Iteration 50] [39] [$6] Player 3 has been bankruptcy!
+[Iteration 52] [19] [$22] Player 1 rolls die and its first face value is 2
+[Iteration 52] [19] [$22] Player 1 rolls die and its second face value is 5
+[Iteration 52] [19] [$22] Player 1 total face value is 7
+[Iteration 52] [26] [$22] Player 1 goes to Railroad3 Square
+[Iteration 52] [26] [$22] Player 1 rolls die and its first face value is 3
+[Iteration 52] [26] [$22] Player 1 rolls die and its second face value is 5
+[Iteration 52] [26] [$22] Player 1 total face value is 8
+[Iteration 52] [26] [$22] Player 1 lost 5 times rolled dice + 25 65 money to Player 5
+[Iteration 52] [26] [$-43] Player 1 has been bankruptcy!
+[Iteration 50] [39] [$6] Player 3 removed from the game because of bankruptcy.
+========
+Game over!
